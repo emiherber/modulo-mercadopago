@@ -1,0 +1,27 @@
+Fecha y hora:27/03/2024 02:52:24
+stdClass Object
+(
+    [action] => payment.created
+    [api_version] => v1
+    [data] => stdClass Object
+        (
+            [id] => 74850733925
+        )
+
+    [date_created] => 2024-03-27T02:52:24Z
+    [id] => 112052521116
+    [live_mode] => 1
+    [type] => payment
+    [user_id] => 1303671046
+)
+
+Array
+(
+    [data_id] => 74850733925
+    [numeroCupon] => 00000015
+    [type] => payment
+)
+
+HMAC verification failed 
+manifest id:74850733925;request-id:f2d546d6-ca5a-4f69-a4a6-00224cb5415a;ts:1711484176;
+hash = sha c881c1f222c8e07e108f024f0354a95e2bf63fdef6fdb71862bae0cd505c1ba8 = a31f470106cde6a6694b7ccb9be0ac5a6d792f9283302185eb27b842a7c4feda
